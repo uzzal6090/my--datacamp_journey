@@ -37,6 +37,7 @@ I have successfully completed the following DataCamp courses:
 
 ## 👤 Author
 Uzzal Hosen
+
 BSc in Computer Science & Engineering  
 Python Learner | Beginner Data Science Enthusiast  
 
