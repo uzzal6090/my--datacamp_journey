@@ -7,11 +7,9 @@ The main focus is on building a strong foundation in **Python programming and da
 
 I have successfully completed the following DataCamp courses:
 
-- Introduction to Python
-- Intermediate Python
-- Python for Data Science
-- Data Manipulation with Pandas
-- Data Visualization with Matplotlib & Seaborn (if applicable)
+- Image processing pythin
+- Intermediate python
+- Introduction to python
 
 > All courses were completed through hands-on exercises and practical coding tasks.
 
